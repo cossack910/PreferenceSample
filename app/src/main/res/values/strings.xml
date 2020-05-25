@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ST42 Androidサンプル01 プレファレンス
+res/values/string.xmlファイル
+-->
+<resources>
+    <string name="app_name">SIEG ZEON</string>
+    <string name="menu_reset">リセット</string>
+    <string name="menu_fonttype">フォント</string>
+    <string name="menu_fonttype_serif">明朝体</string>
+    <string name="menu_fonttype_sansserif">ゴシック体</string>
+    <string name="menu_fonttype_monospace">等幅</string>
+    <string name="menu_fontstyle">字体</string>
+    <string name="menu_fontstyle_normal">標準</string>
+    <string name="menu_fontstyle_italic">斜体</string>
+    <string name="menu_fontstyle_bold">太字</string>
+    <string name="menu_fontstyle_bolditalic">斜体太字</string>
+    <string name="tv_speech">We have lost a hero to our glorious cause, but does this foreshadow our defeat?\nNo.\nIt is a new beginning.\nCompared to Earth Federation the national resources of Zeon are less than one thirteith of theirs.\nDespite this how is it that we have been able to fight the fight for so long?\nIt is because our goal in this war is a righteous one.\nIt\'s been over fifty years since the elite of Earth, consumed by greed took control of the Earth Federation.\nWe want our freedom.\nNever forget the times when the Federation has trampled us!\nWe, the Principality of Zeon, have had a hard struggle to achieve freedom for all citizens of our great nation.\nMy beloved brother, Garma Zabi, was sacrificed.\nWhy?\nThe war is at a stalemate.\nPerhaps many of you have become complacent.\nSuch a lack of compassion is-\nThe Earth Federation has polluted our planet for their own greed.\nWe must send them a message, but not composed of words.\nWe have wasted too much time with words.\n We need action now.\nThe earthside elite must be taught a strong lesson for their corruption.\nThis is only the beginning of our war.\nWe have been putting more and more money into our efforts towards making our military stronger.\nThe Earth Federation has done the same.\nMany of your fathers and brothers have perished valiantly in the face of a contemptible enemy.\nWe must never forget what the Federation has done to our people!\nBy focusing our anger and sorrow, we are finally in a position where victory is within our grasp, and once again, our nation will flourish.\nVictory is the greatest tribute we can pay those who sacrifice their lives for us!\nRise, Rise!\nTake your sorrow, and turn it into anger!\nZeon thirsts for the strength of its people!\nSIEG ZEON!!!\nSIEG ZEON!!!\nSIEG ZEON!!!\nSIEG ZEON!!!</string>
+</resources>
